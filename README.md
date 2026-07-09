@@ -25,10 +25,3 @@ Consumer Complaint Analyzer is an NLP-based Machine Learning application that pr
 
 Consumer Financial Protection Bureau (CFPB)
 
-## Run
-
-```bash
-pip install -r requirements.txt
-
-streamlit run app.py
-```
